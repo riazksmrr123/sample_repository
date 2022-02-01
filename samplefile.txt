@@ -1,0 +1,10 @@
+1 ... git initialize
+2 ... add (make any change to code and add. it is called staging)
+3 ... commit(you can make any change to code and make it commit. for your reminder of changing)
+
+
+difference between git and github
+git
+git is a viersion control system
+git hub
+github is a repository
